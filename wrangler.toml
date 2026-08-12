@@ -2,7 +2,7 @@ name = "localpage-redirect"
 account_id = "9f34f0389217dfe1229ff2779c01d1c9"
 main = "src/index.js"
 compatibility_date = "2026-08-06"
-route = "https://secure.texasgearinc.com/*"
+route = "https://secure.btmldland.com/*"
 
 [env.production]
 name = "localpage-redirect"
