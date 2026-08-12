@@ -1,8 +1,8 @@
 name = "localpage-redirect"
-account_id = "c45461b00db1d9b25d87a8741db52baf"
+account_id = "9f34f0389217dfe1229ff2779c01d1c9"
 main = "src/index.js"
 compatibility_date = "2026-08-06"
-route = "https://secure.kreokersinc.com/*"
+route = "https://secure.btmldland.com/*"
 
 [env.production]
 name = "localpage-redirect"
